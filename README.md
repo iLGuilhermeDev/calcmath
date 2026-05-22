@@ -5,30 +5,30 @@ O projeto possui interface moderna, suporte a áudio e foco em acessibilidade e 
 
 ---
 
-## ✨ Funcionalidades
+# 📷 Fotos do Projeto
+
+<p align="center">
+  <img src="fotocalc.png" width="250">
+  <img src="fotocalc2.png" width="250">
+  <img src="fotocalc3.png" width="250">
+</p>
+
+---
+
+# ✨ Funcionalidades
 
 * ➕ Operações matemáticas básicas
-* 🎨 Interface moderna e responsiva
-* 🔊 Leitura do resultado em áudio
+* 🎨 Interface moderna
+* 🔊 Resultado falado por voz
 * ⌨️ Suporte ao teclado
 * 🛡️ Validação de expressões
-* ❌ Tratamento de erros matemáticos
-* 🧹 Botão para limpar operações
+* ❌ Tratamento de erros
+* 🧹 Limpeza rápida do visor
+* 📱 Layout organizado e intuitivo
 
 ---
 
-## 📸 Interface
-
-A calculadora possui:
-
-* Visor grande
-* Botões estilizados
-* Cores modernas
-* Símbolos matemáticos personalizados (`×` e `÷`)
-
----
-
-## 🚀 Tecnologias utilizadas
+# 🚀 Tecnologias Utilizadas
 
 * Python 3
 * Tkinter
@@ -36,77 +36,77 @@ A calculadora possui:
 
 ---
 
-## 📦 Instalação
+# 📦 Instalação
 
 Clone o repositório:
 
-```bash
+```bash id="4tln5q"
 git clone https://github.com/iLGuilhermeDev/calcmath.git
 ```
 
 Entre na pasta:
 
-```bash
+```bash id="z7m2ba"
 cd calcmath
 ```
 
 Instale as dependências:
 
-```bash
+```bash id="m1wy1j"
 pip install pyttsx3
 ```
 
 Execute o projeto:
 
-```bash
+```bash id="1omc2m"
 python calculo.py
 ```
 
 ---
 
-## 🎮 Controles
+# 🎮 Controles
 
-| Tecla     | Função     |
-| --------- | ---------- |
-| 0-9       | Números    |
-| + - * /   | Operadores |
-| Enter     | Calcular   |
-| C         | Limpar     |
-| Backspace | Apagar     |
+| Tecla     | Função          |
+| --------- | --------------- |
+| 0-9       | Inserir números |
+| + - * /   | Operações       |
+| Enter     | Calcular        |
+| C         | Limpar          |
+| Backspace | Apagar          |
 
 ---
 
-## 📁 Estrutura do Projeto
+# 📁 Estrutura do Projeto
 
-```bash
+```bash id="jlwm28"
 calcmath/
 │
 ├── calculo.py
+├── fotocalc.png
+├── fotocalc2.png
+├── fotocalc3.png
 ├── README.md
 └── .gitignore
 ```
 
 ---
 
-## 🛠️ Melhorias futuras
+# 🛠️ Melhorias Futuras
 
 * Histórico de cálculos
 * Tema escuro/claro
 * Mais operações matemáticas
-* Melhor acessibilidade
-* Empacotamento em `.exe`
+* Conversão para executável `.exe`
+* Melhorias de acessibilidade
+* Calculadora científica
 
 ---
 
-## 👨‍💻 Autor
+# 👨‍💻 Autor
 
 Desenvolvido por Luis Guilherme.
 
-GitHub:
+🔗 GitHub:
 https://github.com/iLGuilhermeDev
 
----
 
-## ⭐ Projeto open source
-
-Sinta-se livre para contribuir, melhorar ou usar como base para estudos.
