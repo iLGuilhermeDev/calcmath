@@ -8,9 +8,11 @@ O projeto possui interface moderna, suporte a áudio e foco em acessibilidade e 
 # 📷 Fotos do Projeto
 
 <p align="center">
-  <img src="fotocalc.png" width="250"/>
-  <img src="fotocalc2.png" width="250"/>
-  <img src="fotocalc3.png" width="250"/>
+  <img src="images/fotocalc.png" width="250"/>
+
+  <img src="images/fotocalc2.png" width="250"/>
+
+  <img src="images/fotocalc3.png" width="250"/>
 </p>
 
 ---
@@ -80,10 +82,12 @@ python calculo.py
 ```text
 calcmath/
 │
+├── images/
+│   ├── fotocalc.png
+│   ├── fotocalc2.png
+│   └── fotocalc3.png
+│
 ├── calculo.py
-├── fotocalc.png
-├── fotocalc2.png
-├── fotocalc3.png
 ├── README.md
 └── .gitignore
 ```
@@ -112,10 +116,3 @@ https://github.com/iLGuilhermeDev
 # ⭐ Open Source
 
 Sinta-se livre para estudar, modificar e contribuir com o projeto.
-
-
-
-
-
-
-
