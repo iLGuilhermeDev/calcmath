@@ -8,9 +8,9 @@ O projeto possui interface moderna, suporte a áudio e foco em acessibilidade e 
 # 📷 Fotos do Projeto
 
 <p align="center">
-  <img src="fotocalc.png" width="250">
-  <img src="fotocalc2.png" width="250">
-  <img src="fotocalc3.png" width="250">
+  <img src="./fotocalc.png" width="250"/>
+  <img src="./fotocalc2.png" width="250"/>
+  <img src="./fotocalc3.png" width="250"/>
 </p>
 
 ---
@@ -19,12 +19,11 @@ O projeto possui interface moderna, suporte a áudio e foco em acessibilidade e 
 
 * ➕ Operações matemáticas básicas
 * 🎨 Interface moderna
-* 🔊 Resultado falado por voz
+* 🔊 Resultado em áudio
 * ⌨️ Suporte ao teclado
 * 🛡️ Validação de expressões
-* ❌ Tratamento de erros
+* ❌ Tratamento de erros matemáticos
 * 🧹 Limpeza rápida do visor
-* 📱 Layout organizado e intuitivo
 
 ---
 
@@ -40,25 +39,25 @@ O projeto possui interface moderna, suporte a áudio e foco em acessibilidade e 
 
 Clone o repositório:
 
-```bash id="4tln5q"
+```bash
 git clone https://github.com/iLGuilhermeDev/calcmath.git
 ```
 
 Entre na pasta:
 
-```bash id="z7m2ba"
+```bash
 cd calcmath
 ```
 
 Instale as dependências:
 
-```bash id="m1wy1j"
+```bash
 pip install pyttsx3
 ```
 
 Execute o projeto:
 
-```bash id="1omc2m"
+```bash
 python calculo.py
 ```
 
@@ -75,38 +74,3 @@ python calculo.py
 | Backspace | Apagar          |
 
 ---
-
-# 📁 Estrutura do Projeto
-
-```bash id="jlwm28"
-calcmath/
-│
-├── calculo.py
-├── fotocalc.png
-├── fotocalc2.png
-├── fotocalc3.png
-├── README.md
-└── .gitignore
-```
-
----
-
-# 🛠️ Melhorias Futuras
-
-* Histórico de cálculos
-* Tema escuro/claro
-* Mais operações matemáticas
-* Conversão para executável `.exe`
-* Melhorias de acessibilidade
-* Calculadora científica
-
----
-
-# 👨‍💻 Autor
-
-Desenvolvido por Luis Guilherme.
-
-🔗 GitHub:
-https://github.com/iLGuilhermeDev
-
-
