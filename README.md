@@ -103,16 +103,3 @@ calcmath/
 * Mais acessibilidade
 
 ---
-
-# 👨‍💻 Autor
-
-Desenvolvido por Luis Guilherme.
-
-🔗 GitHub:
-https://github.com/iLGuilhermeDev
-
----
-
-# ⭐ Open Source
-
-Sinta-se livre para estudar, modificar e contribuir com o projeto.
