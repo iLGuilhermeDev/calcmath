@@ -3,7 +3,7 @@
 Uma calculadora acessível desenvolvida em Python utilizando Tkinter.
 O projeto possui interface moderna, suporte a áudio e foco em acessibilidade e usabilidade.
 
----
+----
 
 # 📷 Fotos do Projeto
 
